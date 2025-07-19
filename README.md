@@ -6,6 +6,7 @@ This is a **console-based chat application** built using **Java Sockets and Mult
 
 ## 🎥 Demo
 ![Chat Demo](https://github.com/Prajapatikapil41/Chat-application/blob/main/Codveda_L3T2.gif)
+
 ---
 ## ✅ Features
 
